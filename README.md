@@ -9,4 +9,4 @@ Sou apaixonado por resolver problemas e criação de gambiarras por meio da prog
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariane-carvalho-716a2278/)](https://www.linkedin.com/in/ariane-carvalho-716a2278/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-Contato-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:carvalhobva@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:carvalhobva@gmail.com)
